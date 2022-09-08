@@ -21,6 +21,7 @@ Topics told on workshop day one:
 * blocking i/o mode in node.js
 * npm full form node package manager
 * explained es5 -es6 commands in node js
+* functions decleration
 * and completed the topics
 
 Topics told on workshop day two:
