@@ -57,3 +57,14 @@ Topics told on workshop day two:
   > npm install express --save-dev
  
   > npm uninstall express --save-dev
+* npm express generator download
+> npm i express-generator -g
+
+> express --view=ejs myapp
+
+> cd  myapp
+
+> npm install
+
+> npm start
+
