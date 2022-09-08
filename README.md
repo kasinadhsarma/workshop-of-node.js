@@ -24,6 +24,7 @@ Topics told on workshop day one:
 * functions decleration
 * and completed the topics
 
+
 Topics told on workshop day two:
 * recap on workshop day 1
 * npm full form is node package manager
