@@ -25,3 +25,34 @@ Topics told on workshop day one:
 * and completed the topics
 
 Topics told on workshop day two:
+* recap on workshop day 1
+* npm full form is node package manager
+* there is no external software required in npm defalt on node packeges
+* npmm makes it is easy for javascript for developerss to share and reuse code and makes it easy to upda>
+* to find various npm pakages visit www.npmjs.com
+* variables are two types those are
+* local variable
+* global variable
+* global node module location
+* first open the windows run dialog box command (win+R_
+* npm cache
+* clearing the npm cache
+* npm cache clear --force
+* in python3 we update through the pip install
+* npm is install as -g npm npm @ 7.5.0
+* commands on npm
+* create package.json
+  > npm init --y
+* Install package globally
+  > npm i nodemon -g
+* Install package in project level
+  > npm i nodemon --save
+* run the project using node
+  > node app.js
+* run the poject nodemon;
+  > nodemon app.js
+* uninstall package
+  > npm uninstall express
+*npm install and uninstall  dev
+  > npm install express --save-dev
+  > npm uninstall express --save-dev
