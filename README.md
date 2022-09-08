@@ -53,6 +53,7 @@ Topics told on workshop day two:
   > nodemon app.js
 * uninstall package
   > npm uninstall express
-*npm install and uninstall  dev
+* npm install and uninstall  dev
   > npm install express --save-dev
+ 
   > npm uninstall express --save-dev
