@@ -68,4 +68,4 @@ Topics told on workshop day two:
   > npm install
 
   > npm start
-
+* in this workshop day 2 npm we understand and how npm 
