@@ -74,4 +74,6 @@ Topics told on workshop day two:
 Topics told on workshop day three:
 * ejs explanation in local host
 * https://ejs.co/ ejs documentation explaned
+* explained the ejs addition in local host
+* 
 result ()
