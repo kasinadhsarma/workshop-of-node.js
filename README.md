@@ -75,5 +75,6 @@ Topics told on workshop day three:
 * ejs explanation in local host
 * https://ejs.co/ ejs documentation explaned
 * explained the ejs addition in local host
-* 
+* explained the php admin database 
+
 result (in this workshop is not better becuase i know these in before only but npm is not well knowed but it is not useful to my projects also this workshop but in my website developoment it can be developed i don't know the database created in my first project and that's it completing my workshop my review on this workshop is 5/10 becuse there is so many flaws i cant say in the repo)
