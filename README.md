@@ -72,5 +72,6 @@ Topics told on workshop day two:
 * in this workshop day 2 npm we understand and what is  npm 
 
 Topics told on workshop day three:
-
+* ejs explanation in local host
+* https://ejs.co/ ejs documentation explaned
 result ()
